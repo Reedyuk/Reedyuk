@@ -21,4 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reedyuk&show_icons=true&locale=en&layout=compact" alt="reedyuk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reedyuk&show_icons=true&locale=en" alt="reedyuk" /></p>
-<p>![counter](https://komarev.com/ghpvc/?username=Reedyuk&color=green)</p>
+![](https://hit.yhype.me/github/profile?user_id=3853006)
