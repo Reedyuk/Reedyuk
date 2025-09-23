@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrew Reed</h1>
-<h3 align="center">A Mobile Developer(Swift, Kotlin) with a keen interest in Kotlin Multiplatform</h3>
+<h3 align="center">A Mobile Developer(iOS, Android) with a keen interest in Kotlin Multiplatform</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reedyuk" alt="reedyuk" /></a> </p>
 
 - 🔭 I’m currently working on [Blue-Falcon](https://github.com/Reedyuk/blue-falcon), [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk), [UNiDAYS](https://github.com/MyUNiDAYS), [GitLive](https://github.com/GitLiveApp/GitLive)
 
-- 💬 Ask me about **iOS, Android ,Swift, SwiftUI, Kotlin, kotlinMP**
+- 💬 Ask me about **iOS, Android ,Swift, SwiftUI, Kotlin, Compose, kotlinMP**
 
 - 📫 How to reach me **andrew_reed@hotmail.com**
 
